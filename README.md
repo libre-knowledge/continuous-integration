@@ -17,7 +17,8 @@
 ## 解決方案
 
 * Drone CI
-* GitHub Actions
+* [GitHub Actions](/github-actions/)  
+  GitHub 推出的持續整合(CI)解決方案
 * GitLab CI
 * Travis CI
 
