@@ -9,5 +9,5 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 [submodule "GitHub Actions"]
 	path = GitHub Actions
-	url = git@github.com:libre-knowledge/github-actions.git
+	url = https://github.com/libre-knowledge/github-actions.git
 	ignore = dirty
