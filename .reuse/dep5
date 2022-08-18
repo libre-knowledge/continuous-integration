@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: 《自由知識協作平台》主題範本
-Upstream-Contact: Issues · libre-knowledge/subject-template <https://github.com/libre-knowledge/subject-template/issues>
-Source: https://github.com/libre-knowledge/subject-template
+Upstream-Name: 持續整合 Continuous Integration(CI)《自由知識協作平台》主題
+Upstream-Contact: Issues · libre-knowledge/continuous-integration <https://github.com/libre-knowledge/continuous-integration/issues>
+Source: https://github.com/libre-knowledge/continuous-integration
 
 Files:
   *README.md
